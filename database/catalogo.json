@@ -1,0 +1,101 @@
+[
+    {
+        "codigo": 2,
+        "titulo": "Todo Mundo em Panico 4",
+        "duracao": 2,
+        "diretor": "David Zucker",
+        "atores": [
+            "Anna Faris",
+            "Regina Hall",
+            "Leslie Nielsen",
+            "Anna Faris",
+            "Shaquille O'Neal",
+            "Michael Madsen",
+            "Carmen Electra"
+        ],
+        "anoDeLancamento": 2011,
+        "emCartaz": true
+    },
+    {
+        "codigo": 5,
+        "titulo": "Missão Impossível",
+        "duracao": 2,
+        "diretor": "Brian De Palma",
+        "atores": [
+            "Tom Cruise",
+            "Jon Voight",
+            "Emmanuelle Béart",
+            "Henry Czerny",
+            "Ving Rhames",
+            "Jean Reno",
+            "Kristin Scott Thomas",
+            "Vanessa Redgrave"
+        ],
+        "anoDeLancamento": 2015,
+        "emCartaz": false
+    },
+    {
+        "codigo": 4,
+        "titulo": "Jack Reacher: O Último Tiro",
+        "duracao": 2,
+        "diretor": "Christopher McQuarrie",
+        "atores": [
+            "Tom Cruise",
+            "Cobie Smulders",
+            "Robert Knepper",
+            "Robert Catrini",
+            "Danika Yarosh"
+        ],
+        "anoDeLancamento": 2013,
+        "emCartaz": false
+    },
+    {
+        "codigo": 1,
+        "titulo": "Senhor dos Aneis 1: A Sociedade do Anel",
+        "duracao": 3,
+        "diretor": "Peter Jackson",
+        "atores": [
+            "Elijah Wood",
+            "Sean Astin",
+            "Ian McKellen",
+            "Viggo Mortensen",
+            "Christopher Lee",
+            "Ian Holm"
+        ],
+        "anoDeLancamento": 2001,
+        "emCartaz": false
+    },
+    {
+        "codigo": 6,
+        "titulo": "Se beber não case",
+        "duracao": 1.5,
+        "diretor": "Zeca Pagodinho",
+        "atores": [
+            "Edie Murf",
+            "Cobie Smulders",
+            "Robert Knepper",
+            "Robert Catrini",
+            "Danika Yarosh"
+        ],
+        "anoDeLancamento": 2013,
+        "emCartaz": true
+    },
+    {
+        "codigo": 3,
+        "titulo": "Missão Impossível 2",
+        "duracao": 2,
+        "diretor": "Brian De Palma",
+        "atores": [
+            "Tom Cruise",
+            "Jon Voight",
+            "Emmanuelle Béart",
+            "Henry Czerny",
+            "Ving Rhames",
+            "Jean Reno",
+            "Kristin Scott Thomas",
+            "Vanessa Redgrave"
+        ],
+        "anoDeLancamento": 2015,
+        "emCartaz": false
+    }
+]
